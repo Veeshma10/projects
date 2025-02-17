@@ -1,0 +1,147 @@
+.nav1{
+    background-image: linear-gradient(black,red);
+    color: white;
+}
+#advimg{
+    margin-left: 10px;
+}
+.nav2{
+    display: grid;
+    grid-template-columns: 20% 60%;
+
+    u{
+        text-decoration-color:red ;
+    }
+
+    .dropdown{
+        border: none;
+        MARGIN-TOP:30px;
+    }
+    .dropdownmenu{
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+    }
+}
+
+.part3{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    img{
+        border: outset 5px rgba(107, 20, 20, 0.76);
+        margin-left: 40px;
+    }
+    a{
+        margin-left: 60px;
+        text-decoration: none;
+        font-size: 25px;
+        color: black;
+        padding-top: 30px;
+    }
+}
+
+#trends{
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 2px 2px red;
+}
+
+h2{
+    margin-left: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+.part4{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    img{
+        border: outset 5px rgba(107, 20, 20, 0.76);
+        margin-left: 40px;
+    }
+    b{
+        font-size: 30px;
+        color: rgb(145, 13, 13);
+        text-align: center;
+        margin-top: 180px;
+        padding-top: 100px;
+    }
+    p{
+        font-size: 30px;
+        text-align: center;
+      
+    }
+    a{
+        margin-left: 80px;
+        text-decoration: none;
+        font-size: 22px;
+        color: black;
+        padding-top: 30px;
+    }
+
+}
+
+.part5{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    img{
+        border: outset 5px rgba(107, 20, 20, 0.76);
+        margin-left: 40px;
+    }
+    b{
+        font-size: 30px;
+        color: rgb(145, 13, 13);
+        text-align: center;
+        margin-top: 180px;
+        padding-top: 100px;
+    }
+    p{
+        font-size: 30px;
+        text-align: center;
+      
+    }
+    a{
+        margin-left: 80px;
+        text-decoration: none;
+        font-size: 22px;
+        color: black;
+        padding-top: 30px;
+    }
+
+}
+
+
+.part6{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    img{
+        border: outset 5px rgba(107, 20, 20, 0.76);
+        margin-left: 40px;
+    }
+    p{
+        font-size: 20px;
+        text-align: center; 
+    }
+    a{
+        margin-left: 80px;
+        text-decoration: none;
+        font-size: 22px;
+        color: black;
+        padding-top: 30px;
+    }
+    b{
+        font-size: 40px;
+        color: rgb(145, 13, 13);
+        text-align: center;
+        margin-top: 180px;
+        padding-top: 100px;
+    }
+
+}
+
+footer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: black;
+    color: white;
+   padding-left: 60px;
+}
